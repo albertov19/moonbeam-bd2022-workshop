@@ -1,0 +1,10 @@
+https://anarkrypto.github.io/upload-files-to-ipfs-from-browser-panel/public/
+
+cool -> QmPD4U4ywae7hVc8WYgJuwRAxhzAc8F7pBfmrjFhFEwxW3
+https://ipfs.infura.io/ipfs/QmXUn3dqpu1cXMD1dZMUyeRbh9AwBfqPCvNd6TRMhjHq49
+
+rocket -> QmXUn3dqpu1cXMD1dZMUyeRbh9AwBfqPCvNd6TRMhjHq49
+https://ipfs.infura.io/ipfs/QmXUn3dqpu1cXMD1dZMUyeRbh9AwBfqPCvNd6TRMhjHq49
+
+sun -> QmaNe2uprzPckMLBzJqEVH7W1MtGJs6Z8JWBebbhwu7yNi
+https://ipfs.infura.io/ipfs/QmaNe2uprzPckMLBzJqEVH7W1MtGJs6Z8JWBebbhwu7yNi
