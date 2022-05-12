@@ -27,6 +27,7 @@ const App = () => {
 
   const checkMetamask = async () => {
     const provider = await detectEthereumProvider({ mustBeMetaMask: true });
+
     if (provider) {
       const chainId = await provider.request({
         method: "eth_chainId",
@@ -37,8 +38,11 @@ const App = () => {
           method: "eth_requestAccounts",
         });
 
+        console.log(`O -> ${accounts}`);
+
         // Update State
         if (accounts) {
+          console.log(`I -> ${accounts}`);
           setAccount(ethers.utils.getAddress(accounts[0]));
           setConnected(true);
         }
